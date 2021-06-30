@@ -1,0 +1,20 @@
+<application>
+  <component name="DependencyUISettings">
+    <option name="UI_SHOW_FILES" value="false" />
+    <option name="UI_SHOW_MODULES" value="false" />
+    <option name="SCOPE_TYPE" value="file" />
+  </component>
+  <component name="UISettings">
+    <option name="CLOSE_TAB_BUTTON_ON_THE_RIGHT" value="false" />
+    <option name="EDITOR_TAB_LIMIT" value="100" />
+    <option name="EDITOR_TAB_PLACEMENT" value="2" />
+    <option name="HIDE_KNOWN_EXTENSION_IN_TABS" value="true" />
+    <option name="IDE_AA_TYPE" value="Greyscale" />
+    <option name="MARK_MODIFIED_TABS_WITH_ASTERISK" value="true" />
+    <option name="SCROLL_TAB_LAYOUT_IN_EDITOR" value="false" />
+    <option name="SHOW_FILE_ICONS_IN_TABS" value="false" />
+    <option name="SHOW_MAIN_TOOLBAR" value="true" />
+    <option name="SORT_LOOKUP_ELEMENTS_LEXICOGRAPHICALLY" value="true" />
+    <option name="SORT_TABS_ALPHABETICALLY" value="true" />
+  </component>
+</application>

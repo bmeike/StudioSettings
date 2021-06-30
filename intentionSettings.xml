@@ -1,0 +1,7 @@
+<application>
+  <component name="IntentionManagerSettings">
+    <ignoreAction name="Control Flow/Remove Braces" />
+    <ignoreAction name="Java/Imports/Add Single-Member Static Import" />
+    <ignoreAction name="Java/Imports/Expand Static Import" />
+  </component>
+</application>

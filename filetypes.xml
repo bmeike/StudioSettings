@@ -1,0 +1,15 @@
+<application>
+  <component name="FileTypeManager" version="17">
+    <ignoreFiles list="*.hprof;*.pyc;*.pyo;*.rbc;*~;.DS_Store;.git;.hg;.svn;CVS;RCS;SCCS;__pycache__;_svn;rcs;" />
+    <extensionMap>
+      <mapping pattern="Jenkinsfile" type="Groovy" />
+      <mapping ext="webp" type="Image" />
+      <mapping ext="gradle.kts" type="Kotlin" />
+      <mapping ext="main.kts" type="Kotlin" />
+      <mapping pattern="fragment_shader" type="PLAIN_TEXT" />
+      <mapping pattern="mipmap-anydpi" type="PLAIN_TEXT" />
+      <mapping pattern="vertex_shader" type="PLAIN_TEXT" />
+      <mapping pattern="button_bg_anim" type="XML" />
+    </extensionMap>
+  </component>
+</application>

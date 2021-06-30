@@ -1,0 +1,6 @@
+<application>
+  <component name="PlantUmlSettingsNew">
+    <option name="dotExecutable" value="/usr/local/bin/dot" />
+    <option name="errorAnnotationEnabled" value="false" />
+  </component>
+</application>

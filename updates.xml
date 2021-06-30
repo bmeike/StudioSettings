@@ -1,0 +1,40 @@
+<application>
+  <component name="UpdatesConfigurable">
+    <enabledExternalComponentSources>
+      <item value="Android SDK" />
+    </enabledExternalComponentSources>
+    <option name="externalUpdateChannels">
+      <map>
+        <entry key="Android SDK" value="Preview Channel" />
+      </map>
+    </option>
+    <ignoredBuildNumbers>
+      <item value="emulator#28.0.16" />
+      <item value="system-images;android-23;google_apis;x86_64#30" />
+      <item value="system-images;android-27;google_apis;x86#8" />
+      <item value="system-images;android-28;google_apis;x86_64#7" />
+      <item value="system-images;android-28;google_apis_playstore;x86_64#8" />
+      <item value="emulator#28.0.20" />
+      <item value="emulator#28.0.25" />
+      <item value="emulator#29.0.9" />
+      <item value="platform-tools#28.0.3" />
+      <item value="platforms;android-Q#3" />
+      <item value="system-images;android-19;google_apis;x86#38" />
+      <item value="system-images;android-22;google_apis;x86_64#24" />
+      <item value="system-images;android-27;google_apis;x86#9" />
+      <item value="system-images;android-28;google_apis;x86_64#9" />
+      <item value="platform-tools#29.0.0" />
+      <item value="system-images;android-29;google_apis;x86_64#7" />
+      <item value="191.8026.42.35.5791312" />
+      <item value="ndk-bundle#21.0.6011959 rc2" />
+      <item value="platform-tools#30.0.3" />
+      <item value="ndk-bundle#22.0.6917172 rc1" />
+    </ignoredBuildNumbers>
+    <knownExternalComponentSources>
+      <item value="Android SDK" />
+    </knownExternalComponentSources>
+    <option name="LAST_BUILD_CHECKED" value="AI-202.7660.26.42.7486908" />
+    <option name="LAST_TIME_CHECKED" value="1625085185758" />
+    <option name="THIRD_PARTY_PLUGINS_ALLOWED" value="true" />
+  </component>
+</application>

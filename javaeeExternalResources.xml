@@ -1,0 +1,7 @@
+<application>
+  <component name="ExternalResourceManagerImpl">
+    <ignored-resource url="http://pmd.sourceforge.net/ruleset/2.0.0" />
+    <ignored-resource url="http://www.puppycrawl.com/dtds/configuration_1_3.dtd" />
+    <ignored-resource url="http://www.puppycrawl.com/dtds/suppressions_1_1.dtd" />
+  </component>
+</application>

@@ -1,0 +1,20 @@
+<application>
+  <component name="NotificationConfiguration">
+    <notification groupId="Android Session Restarted" displayType="TOOL_WINDOW" />
+    <notification groupId="Build sync orphan modules" displayType="NONE" shouldLog="false" />
+    <notification groupId="Configure Kotlin in Project" displayType="STICKY_BALLOON" shouldLog="false" />
+    <notification groupId="Execution" displayType="NONE" />
+    <notification groupId="FindBugs: Plugin Suggestion" displayType="NONE" shouldLog="false" />
+    <notification groupId="FindBugs: R-File Filter Suggestion" displayType="NONE" shouldLog="false" />
+    <notification groupId="Genymotion" displayType="NONE" />
+    <notification groupId="Git Important Messages" displayType="STICKY_BALLOON" />
+    <notification groupId="Git Messages" displayType="TOOL_WINDOW" />
+    <notification groupId="Gradle Notification Group" displayType="NONE" shouldLog="false" />
+    <notification groupId="IDE Fatal Errors" displayType="NONE" />
+    <notification groupId="IDE Usage Statistics" displayType="STICKY_BALLOON" shouldLog="false" />
+    <notification groupId="Maven Import" displayType="STICKY_BALLOON" />
+    <notification groupId="Test Runner" displayType="NONE" />
+    <notification groupId="Update Checker" displayType="STICKY_BALLOON" />
+    <notification groupId="Vcs Important Messages" displayType="STICKY_BALLOON" />
+  </component>
+</application>

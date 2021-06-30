@@ -1,0 +1,6 @@
+<application>
+  <component name="GradleExperimentalSettings">
+    <option name="USE_SINGLE_VARIANT_SYNC" value="false" />
+    <option name="USE_NEW_PSD" value="false" />
+  </component>
+</application>

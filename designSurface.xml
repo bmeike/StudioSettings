@@ -1,0 +1,11 @@
+<application>
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="app/src/main/res/layout/activity_main_screen.xml" value="0.2378419452887538" />
+        <entry key="app/src/main/res/layout/activity_sandbox.xml" value="0.24166666666666667" />
+        <entry key="app/src/main/res/layout/getnutrition_layout.xml" value="0.2378419452887538" />
+      </map>
+    </option>
+  </component>
+</application>
