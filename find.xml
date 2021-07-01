@@ -1,11 +1,11 @@
 <application>
   <component name="FindSettings">
     <option name="caseSensitive" value="true" />
-    <option name="customScope" value="File '~/Working/java/lithium/common/common/main/java/com/couchbase/lite/PropertyExpression.java [android.lib]'" />
-    <option name="defaultScopeName" value="File '~/Working/java/lithium/common/common/main/java/com/couchbase/lite/PropertyExpression.java [android.lib]'" />
+    <option name="customScope" value="File '~/Working/java/lithium/common/common/main/java/com/couchbase/lite/ReplicatedDocument.java [android.lib]'" />
+    <option name="defaultScopeName" value="File '~/Working/java/lithium/common/common/main/java/com/couchbase/lite/ReplicatedDocument.java [android.lib]'" />
     <option name="localCaseSensitive" value="true" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
-    <option name="SEARCH_SCOPE" value="File '~/Working/java/lithium/common/common/main/java/com/couchbase/lite/PropertyExpression.java [android.lib]'" />
+    <option name="SEARCH_SCOPE" value="File '~/Working/java/lithium/common/common/main/java/com/couchbase/lite/ReplicatedDocument.java [android.lib]'" />
   </component>
 </application>
