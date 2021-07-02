@@ -7,6 +7,7 @@
     <option name="GROUP_BY_FILE_STRUCTURE" value="false" />
     <option name="GROUP_BY_MODULE" value="false" />
     <option name="GROUP_BY_SCOPE" value="true" />
+    <option name="IS_PREVIEW_USAGES" value="false" />
     <option name="PREVIEW_USAGES_SPLITTER_PROPORTIONS" value="0.49597347" />
   </component>
 </application>
